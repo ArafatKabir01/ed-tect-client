@@ -1,0 +1,30 @@
+[
+    {
+      "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+      "name": "Laptop Servicing",
+      "img": "https://media.istockphoto.com/photos/technician-repairing-laptop-computer-closeup-picture-id928791064",
+      "price": 400,
+      "text": ""
+    },
+    {
+      "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+      "name": "Desktop Servicing",
+      "img": "https://s3.ap-south-1.amazonaws.com/cdn-shebaxyz/images/services_images/thumbs/1645165416_desktophardwarecheckup.jpg",
+      "price": 450,
+      "text": ""
+    },
+    {
+      "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+      "name": "Monitor Servicing",
+      "price": 500,
+      "img": "https://image.shutterstock.com/image-photo/young-repairer-working-soldering-iron-260nw-441438400.jpg",
+      "text": ""
+    },
+    {
+      "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+      "name": "Tablet Servicing",
+      "price": 500,
+      "img": "https://thumbs.dreamstime.com/b/repairing-tablet-website-opening-tablet-employee-repairing-tablet-website-opening-tablet-128869674.jpg",
+      "text": "Tab is very famous for laptop user."
+    }
+]
